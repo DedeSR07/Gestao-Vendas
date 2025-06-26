@@ -63,8 +63,6 @@ Este projeto consiste na construção de um dashboard interativo no Microsoft Ex
 ## 👨‍💻 Autor
 
 **David Souza Ribeiro**  
-São Paulo - SP | Estudante de Cloud e Análise de Dados  
-📜 Certificação AWS Cloud Practitioner  
 
 ---
 
