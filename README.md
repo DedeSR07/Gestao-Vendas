@@ -48,15 +48,8 @@ Este projeto consiste na construção de um dashboard interativo no Microsoft Ex
 
 ## 📸 Capturas de Tela
 
-### Tabela Dinâmica
-
-🧾![Tabela Dinâmica](Imagens/TabelaDinamica.jpg)
-
----
-
-### Dashboard Interativo
-
-📊![Dashboard](Imagens/Dashboard.jpg)
+- 📈 [Dashboard](./Imagens/Dashboard.jpg)
+- 📊 [Tabela Dinâmica](./Imagens/TabelaDinamica.jpg)
 
 ---
 
